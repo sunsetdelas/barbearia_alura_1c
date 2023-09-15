@@ -1,7 +1,10 @@
 body {
     background: #ccccc;
 }
-p {
+#banner {
+    width:100%
+}
+p{
     text-align: center;
 }
  em strong {
